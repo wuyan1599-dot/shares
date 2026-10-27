@@ -37,5 +37,3 @@ https://wuyan1599-dot.github.io/shares/<仓库内相对路径>
 3. 取链接：按上面的规则拼，或看本页索引表
 
 最后更新：2026-09-09
-
-临时同步测试：[测试页面](https://wuyan1599-dot.github.io/shares/2026.10/sync-check/test.html)。测试完成后删除。
